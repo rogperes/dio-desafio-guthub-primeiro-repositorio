@@ -1,4 +1,4 @@
-# dio-desafio-guthub-primeiro-repositorio
+# Desafio de projeto Git/Github da DIO
 Repositório criado para o desafio
 
 
